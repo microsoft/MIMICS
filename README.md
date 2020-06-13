@@ -68,7 +68,7 @@ bibtex:
 ```
 
 ## License
-Macaw is distributed under the **MIT License**. See the `LICENSE` file for more information.
+MIMICS is distributed under the **MIT License**. See the `LICENSE` file for more information.
 
 
 ## Terms and Conditions
