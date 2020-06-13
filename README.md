@@ -4,7 +4,7 @@ Asking a clarification has also been recognized as a major component in conversa
 | <!-- -->                            | <!-- -->                                                  |
 |-------------------------------------|-----------------------------------------------------------|
 | query                               | headaches                                                 |
-| question                            | What do you want to know about this medication condition? |
+| question                            | What do you want to know about this medical condition?    |
 | candidate answers (options)         | symptom, treatment, causes, diagnosis, diet               |
 
 
