@@ -1,4 +1,4 @@
-# MIMICS: A Large-Scale Data Collection for Conversational Search
+# MIMICS: A Large-Scale Data Collection for Search Clarification
 Asking a clarification has also been recognized as a major component in conversational information seeking systems. MIMICS is a collection of search clarification datasets for real search queries sampled from the Bing query logs. Each clarification in MIMICS consists of a clarifying question and up to five candidate answers. Here is an example:
 
 | <!-- -->                            | <!-- -->                                                  |
