@@ -4,7 +4,7 @@ Asking a clarification has also been recognized as a major component in conversa
 | <!-- -->                            | <!-- -->                                                  |
 |-------------------------------------|-----------------------------------------------------------|
 | query                               | headaches                                                 |
-| question                            | What do you want to know about this medication condition? |
+| question                            | What do you want to know about this medical condition?    |
 | candidate answers (options)         | symptom, treatment, causes, diagnosis, diet               |
 
 
@@ -68,7 +68,11 @@ bibtex:
 ```
 
 ## License
-Macaw is distributed under the **MIT License**. See the `LICENSE` file for more information.
+MIMICS is distributed under the **MIT License**. See the `LICENSE` file for more information.
+
+
+## Terms and Conditions
+The ORCAS datasets are intended for non-commercial research purposes only to promote advancement in the field of information retrieval and related areas, and is made available free of charge without extending any license or other intellectual property rights. The dataset is provided "as is" without warranty and usage of the data has risks since we may not own the underlying rights in the documents. We are not be liable for any damages related to use of the dataset. Feedback is voluntarily given and can be used as we see fit. By using any of these datasets you are automatically agreeing to abide by these terms and conditions. Upon violation of any of these terms, your rights to use the dataset will end automatically. If you have questions about use of the dataset or any research outputs in your products or services, we encourage you to undertake your own independent legal review. For other questions, please feel free to contact us at hazamani@microsoft.com.
 
 
 ## Contributing
