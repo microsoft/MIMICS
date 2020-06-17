@@ -15,11 +15,11 @@ MIMICS contains three datasets:
 
 MIMICS enables researchers to study a number of tasks related to search clarification, including clarification generation and selection, user engagement prediction for clarification, click models for clarification, and analyzing user interactions with search clarification. For more information, refer to the following paper:
 
-- Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. **"MIMICS: A Large-Scale Data Collection for Search Clarification"**, 2020.
+- Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. [**"MIMICS: A Large-Scale Data Collection for Search Clarification"**](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/CIKM_2020___Clarification_Data-7.pdf){:target="_blank"}, 2020.
 
 For more information of clarification generation and user interactions with clarification, refer to the following artciles:
-  - Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck. **"Generating Clarifying Questions for Information Retrieval"**. In Proceedings of the Web Conference, 2020 (WWW '20). [Link](https://dl.acm.org/doi/abs/10.1145/3366423.3380126)
-  - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais. **"Analyzing and Learning from User Interactions for Search Clarification"**. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020 (SIGIR ’20). [Link](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SIGIR_2020___Analyzing_Clarification_in_Web_Search.pdf)
+  - Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck. [**"Generating Clarifying Questions for Information Retrieval"**](https://dl.acm.org/doi/abs/10.1145/3366423.3380126){:target="_blank"}. In Proceedings of the Web Conference, 2020 (WWW '20). 
+  - Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, and Susan T. Dumais. [**"Analyzing and Learning from User Interactions for Search Clarification"**](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SIGIR_2020___Analyzing_Clarification_in_Web_Search.pdf){:target="_blank"}. In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020 (SIGIR ’20). 
 
 
 
