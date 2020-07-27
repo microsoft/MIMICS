@@ -15,7 +15,7 @@ MIMICS contains three datasets:
 
 MIMICS enables researchers to study a number of tasks related to search clarification, including clarification generation and selection, user engagement prediction for clarification, click models for clarification, and analyzing user interactions with search clarification. For more information, refer to the following paper:
 
-- Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. [**"MIMICS: A Large-Scale Data Collection for Search Clarification"**](https://arxiv.org/pdf/2006.10174.pdf), 2020.
+- Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. [**"MIMICS: A Large-Scale Data Collection for Search Clarification"**](https://arxiv.org/pdf/2006.10174.pdf), In Proceedings of the 29th ACM International on Conference on Information and Knowledge Management, 2020 (CIKM '20).
 
 For more information of clarification generation and user interactions with clarification, refer to the following artciles:
   - Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, and Gord Lueck. [**"Generating Clarifying Questions for Information Retrieval"**](https://dl.acm.org/doi/abs/10.1145/3366423.3380126). In Proceedings of the Web Conference, 2020 (WWW '20). 
@@ -54,15 +54,16 @@ The datasets are released in a tab-separated file format (TSV), with the header 
 ## Citation
 If you found MIMICS useful, you can cite the following article:
 ```
-Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. "MIMICS: A Large-Scale Data Collection for Search Clarification", arXiv preprint arXiv:2006.10174, 2020.
+Hamed Zamani, Gord Lueck, Everest Chen, Rodolfo Quispe, Flint Luu, and Nick Craswell. "MIMICS: A Large-Scale Data Collection for Search Clarification", In Proc. of CIKM 2020.
 ```
 
 bibtex:
 ```
-@article{mimics,
+@inproceedings{mimics,
   title={MIMICS: A Large-Scale Data Collection for Search Clarification},
   author={Zamani, Hamed and Lueck, Gord and Chen, Everest and Quispe, Rodolfo and Luu, Flint and Craswell, Nick},
-  journal={arXiv preprint arXiv:2006.10174},
+  booktitle = {Proceedings of the 29th ACM International on Conference on Information and Knowledge Management},
+  series = {CIKM '20},
   year={2020},
 }
 ```
