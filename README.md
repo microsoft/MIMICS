@@ -51,6 +51,10 @@ The datasets are released in a tab-separated file format (TSV), with the header 
 | option_label_1, ..., option_label_5 | (integer) The conditional click probability on each candidate answer. |
 
 
+### The Bing API's Search Results for MIMICS Queries
+To enable researchers to use the web search result page (SERP) information, we have also released the search results returned by the Bing's Web Search API for all the queries in the MIMICS datasets. The SERP  data can be downloaded from [here](http://ciir.cs.umass.edu/downloads/mimics-serp/MIMICS-BingAPI-results.zip) (3.2GB compressed, 16GB decompressed). Each line in the file can be loaded as a JSON object and contain all information returned by the Bing's Web Search API.
+
+
 ## Citation
 If you found MIMICS useful, you can cite the following article:
 ```
